@@ -199,6 +199,3 @@ After starting FastAPI, you can also test it with:
 Invoke-RestMethod -Uri http://127.0.0.1:8000/chat -Method Post -ContentType "application/json" -Body '{"query":"What is Agentic AI?"}'
 ```
 
-## GitHub submission
-
-See `GITHUB_SETUP.md` for the exact Windows setup and Git commands to create the public repository and push the project.
